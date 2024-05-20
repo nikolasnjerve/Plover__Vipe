@@ -1,10 +1,10 @@
 [metadata]
-name = plover_regenpfeifer
-version = 1.1.2
-description = German realtime system for Plover
+name = plover_vipe
+version = 1.0.
+description = Norwegian realtime system for Plover
 long_description = file: README.rst
-author = Martin Koerner
-author_email = info@mkoerner.de
+authors = Martin Koerner, Nikolas Njerve
+author_email = nikolasnjerve@gmail.com
 license = GNU General Public License v3 or later (GPLv3+)
 url = https://github.com/mkrnr/plover_regenpfeifer
 classifiers =
@@ -23,8 +23,8 @@ install_requires =
 	plover>=4.0.0.dev1
 include_package_data = True
 packages =
-	plover_regenpfeifer
+	plover_vipe
 
 [options.entry_points]
 plover.system =
-	Regenpfeifer = plover_regenpfeifer.system
+	Regenpfeifer = plover_vipe.system
