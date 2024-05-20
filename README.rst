@@ -4,7 +4,7 @@ Plover Vipe
 
 Vipe (Norwegian stenography system) support for Plover.
 
-It remaps W to W and Z to N. I have also added some simple ortography rules.
+It remaps W to V and Z to N. I have also added some simple ortography rules.
 
 
 
