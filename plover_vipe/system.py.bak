@@ -209,5 +209,5 @@ KEYMAPS = {
     },
 }
 
-DICTIONARIES_ROOT = 'asset:plover_regenpfeifer:dictionaries'
-DEFAULT_DICTIONARIES = ('regenpfeifer_user.json', 'regenpfeifer_main.json')
+DICTIONARIES_ROOT = 'asset:plover_vipe:dictionaries'
+DEFAULT_DICTIONARIES = ('vipe_egne_ord.json', 'vipe_main.json', 'vipe_commands.json')
