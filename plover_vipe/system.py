@@ -210,4 +210,4 @@ KEYMAPS = {
 }
 
 DICTIONARIES_ROOT: str = 'asset:plover_vipe:dictionaries'
-DEFAULT_DICTIONARIES = ('vipe_egne_ord.json', 'vipe_main.json', 'vipe_commands.json')
+DEFAULT_DICTIONARIES = ('vipe_main.json', 'vipe_commands.json')
