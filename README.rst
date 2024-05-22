@@ -23,7 +23,7 @@ Windows
 
 .. code:: powershell
 
-	.\plover_console.exe -s plover_plugins install git+ https://github.com/nikolasnjerve/Plover__Vipe
+	.\plover_console.exe -s plover_plugins install git+https://github.com/nikolasnjerve/Plover__Vipe
 
 Mac
 
