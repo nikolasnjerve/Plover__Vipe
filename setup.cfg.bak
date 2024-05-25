@@ -1,6 +1,6 @@
 [metadata]
 name = plover_vipe
-version = 1.0.2
+version = 1.0.1
 description = Norwegian realtime system for Plover
 long_description = file: README.rst
 authors = Martin Koerner, Nikolas Njerve
