@@ -7,6 +7,17 @@ Vipe (Norwegian stenography system) support for Plover.
 It remaps W to V and Z to N. I have also added some simple ortography rules.
 
 
+The steno keyboard chart. 
+--------------------------
+
+This chart contains the letters for norwegian steno
+https://docs.google.com/drawings/d/1m3cIkRPlEk2SmmVI_mmRBNIiuxUh-wDy2_A_Pn_ZUZQ/edit?usp=sharing
+
+
+this chart contains most of the letter combinations
+https://docs.google.com/drawings/d/1TlvdrWSf1BHJG6P3KkEr4j49XLYwzMm85dw4BtpkfPo/edit?usp=sharing
+
+
 
 Recommended Usage
 -----------------
@@ -29,7 +40,7 @@ Mac
 
 .. code:: bash
 
-	/Applications/Plover.app/Contents/MacOS/Plover -s plover_plugins install <path-to-plover-vipe-git-repo>
+	/Applications/Plover.app/Contents/MacOS/Plover -s plover_plugins install https://github.com/nikolasnjerve/Plover__Vipe
 
 
 Special Thanks
