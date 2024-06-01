@@ -35,13 +35,9 @@ ORTHOGRAPHY_RULES = [
     (r"^(.+)e \^ ene$", r"\1ene"),
     
         # == +er ==
-	# re + er = rer
-	(r"^(.+)re \^ er$", r"\1rer"),
-	# se + er = ser
-	(r"^(.+)se \^ er$", r"\1ser"),
-    # ke + er = ker
-	(r"^(.+)ke \^ er$", r"\1ker"),
-    
+	# e + er = er
+	(r"^(.+)e \^ er$", r"\1er"),
+	
         # == +es ==
     # e + es = es
 	(r"^(.+)e \^ es$", r"\1es"),
