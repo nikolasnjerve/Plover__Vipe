@@ -35,8 +35,6 @@ ORTHOGRAPHY_RULES = [
 	(r"^(.+)re \^ er$", r"\1rer"),
 	# se + er = ser
 	(r"^(.+)se \^ er$", r"\1ser"),
-    # ke + er = ker
-	(r"^(.+)ke \^ er$", r"\1ker"),
 	# == +en ==
 	# se + en = sen
 	(r"^(.+)se \^ en$", r"\1sen"),
