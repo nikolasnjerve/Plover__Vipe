@@ -10,6 +10,7 @@
 "SKVRAEURBGS": "{^\n\n^}{-|}",
 "SKVRAURBGS": "{^\n\n^}{-|}",
 "SKV-BGS": "{#Return}{^}",
+"SH-FT": "{PLOVER:SWITCH_SYSTEM:English Stenotype}",
 "SR-RS": "{#Control_L(End)}{^}",
 "TK*EL": "{#Delete}",
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
