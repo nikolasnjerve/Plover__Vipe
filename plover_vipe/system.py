@@ -32,7 +32,7 @@ UNDO_STROKE_STENO = '*'
 ORTHOGRAPHY_RULES = [
         # == +ene ==
     # e + ene = ene
-    (r"^(.+)e \^ ene$", r"\1rene"),
+    (r"^(.+)e \^ ene$", r"\1ene"),
     
         # == +er ==
 	# re + er = rer
