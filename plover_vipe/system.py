@@ -30,19 +30,29 @@ NUMBERS = {
 UNDO_STROKE_STENO = '*'
 
 ORTHOGRAPHY_RULES = [
-    	# == +er ==
+        # == +ene ==
+    # e + ene = ene
+    (r"^(.+)e \^ ene$", r"\1rene"),
+    
+        # == +er ==
 	# re + er = rer
 	(r"^(.+)re \^ er$", r"\1rer"),
 	# se + er = ser
 	(r"^(.+)se \^ er$", r"\1ser"),
     # ke + er = ker
 	(r"^(.+)ke \^ er$", r"\1ker"),
-	# == +en ==
-	# se + en = sen
-	(r"^(.+)se \^ en$", r"\1sen"),
+    
+        # == +es ==
+    # e + es = es
+	(r"^(.+)e \^ es$", r"\1es"),
+    
+        # == +en ==
 	# e + en = en
 	(r"^(.+)e \^ en$", r"\1en"),
-	# == +et ==
+	# m + en = mmen
+	(r"^(.+)m \^ en$", r"\1mmen"),
+    
+        # == +et ==
 	# m + et = mmet
 	(r"^(.+)m \^ et$", r"\1mmet"),
 ]	
