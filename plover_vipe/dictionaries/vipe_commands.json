@@ -1,4 +1,5 @@
 {
+"#*": "{*}",
 "#-N": "{PLOVER:ADD_TRANSLATION}",
 "STPH": "{^}{>}",
 "STPH-R": "{#Left}{^}",
