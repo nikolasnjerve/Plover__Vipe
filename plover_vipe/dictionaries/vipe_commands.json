@@ -22,6 +22,7 @@
 "TPEFBG": "{#Escape}",
 "TA*B": "{#Tab}{^}",
 "TA*BT": "{#Alt_L(Tab Tab)}",
+"TUL/PVAL": "tullball",
 "KPH*F": "{#Super_L(v)}",
 "KPH*BG": "{#Super_L(k)}",
 "KPH*T": "{#Super_L(w)}",
