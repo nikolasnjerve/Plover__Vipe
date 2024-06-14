@@ -27,8 +27,8 @@ Since the Vipe dictionary will change in the future, it it highly recommended to
 
 Installation
 ------------
+Right click on the Plover shortcut and choose "open file path". Right click on the shortcut for plover again and choose "open file path" once again. Now you should be in the Plover folder under open steno project. It should contain the uninstall program, among others. Make sure none of the files or programs are marked. Hold down Shift and right click (not on any of the programs or the folder) in the dropdown menu you should be able to open powershell. In powershell, paste the plover_console.exe -s... command below and hit enter. 
 
-To install the cloned git repository, you can run the following command:
 
 Windows
 
