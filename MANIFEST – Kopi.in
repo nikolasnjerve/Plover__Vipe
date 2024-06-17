@@ -1,2 +1,0 @@
-include tox.ini
-include plover_vipe/dictionaries/*.json
