@@ -1,4 +1,5 @@
 {
+"#*": "{*}",
 "#-N": "{PLOVER:ADD_TRANSLATION}",
 "A*FP": "{*?}",
 "KHR*BG": "{#Control_L(k)}",
