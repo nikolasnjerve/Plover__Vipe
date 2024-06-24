@@ -13,6 +13,8 @@
 "KPH*F": "{#Super_L(v)}",
 "KPH*T": "{#Super_L(w)}",
 "KPH-BG": "{#Super_L(c)}",
+"KRA*PL": "{MODE:RESET}",
+"KRAPL": "{MODE:CAPS}",
 "PHRO*F": "{PLOVER:SUSPEND}",
 "PHRO*PB": "{PLOVER:RESUME}",
 "PHROLG": "{PLOVER:TOGGLE}",
