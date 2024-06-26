@@ -51,6 +51,8 @@ ORTHOGRAPHY_RULES = [
         # == +et ==
 	# m + et = mmet
 	(r"^(.+)m \^ et$", r"\1mmet"),
+    # nal + et = nalt
+    (r"^(.+)nal \^ et$", r"\1nalt"),
 ]	
 
 ORTHOGRAPHY_RULES_ALIASES = {}
