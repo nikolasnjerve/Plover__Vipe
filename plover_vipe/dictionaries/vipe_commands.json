@@ -41,5 +41,6 @@
 "PHRO*PB": "{PLOVER:RESUME}",
 "PHROLG": "{PLOVER:TOGGLE}",
 "R-R": "{#Return}{^}",
-"A*FP": "{*?}"
+"A*FP": "{*?}",
+"AFP": "{*?}"
 }
