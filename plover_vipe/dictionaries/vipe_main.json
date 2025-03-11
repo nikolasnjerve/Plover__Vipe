@@ -13779,6 +13779,7 @@
 "OP/VEBGS": "oppvekst",
 "OP/VEBGS/TPEUPL": "oppvekstfilm",
 "OP/HRAERG": "opplæring",
+"OP/HRAERGS": "opplærings{^}",
 "OP/HRAG": "opplag",
 "OP/HRAGT": "opplagt",
 "OP/HRAN": "oppland",
