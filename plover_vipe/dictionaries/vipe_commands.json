@@ -13,7 +13,7 @@
 "SKV-BGS": "{#Return}{^}",
 "SH-FT": "{PLOVER:SWITCH_SYSTEM:English Stenotype}",
 "SR-RS": "{#Control_L(End)}{^}",
-"TKA/TO*": "{:time:%A, %d %B, %Y>>de_DE}",
+"TKA/TO*": "{:time:%A, %d %B, %Y>>nb_NO}",
 "TK*EL": "{#Delete}",
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 "TK-FP": "{*!}",
