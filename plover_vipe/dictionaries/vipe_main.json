@@ -3468,6 +3468,8 @@
 "TPHRER/TAL/E": "flertallet",
 "TPHRER/KON/REU": "flerkoneri",
 "TPHRER/PVRUBGS": "{flerbruks^}",
+"TPHRER/VALG": "flervalg",
+"TPHRER/VALGS": "flervalgs{^}",
 "TPHREBG": "flekk",
 "TPHREBG/STKPVROR": "Flekkefjord",
 "TPHREBGS/PVHRE": "fleksible",
