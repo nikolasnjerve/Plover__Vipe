@@ -14139,6 +14139,7 @@
 "AN/HREG/SE": "anleggelse",
 "AN/HREG/E": "anlegge",
 "AN/HREG/ET": "anlegget",
+"AN/HREGS": "anleggs{^}",
 "AN/HREGS/TKPVR-RT/TPHER": "anleggsgartner",
 "AN/HREGS/TPA/SE": "anleggsfase",
 "AN/HREGS/TPOR/PHAN": "anleggsformann",
