@@ -32,7 +32,7 @@
 "KPA": "{*-|}",
 "KPA*": "{*>}",
 "KPA*L": "{<}",
-"KHRU": "{#Control_L(u)}",
+"KHR*U": "{#Control_L(u)}",
 "KHR-F": "{#Control_L(f)}",
 "KHR-BG": "{#Control_L(k)}",
 "KRA*PL": "{MODE:RESET}",
