@@ -4,6 +4,7 @@
 "STPH": "{^}{>}",
 "STPH-R": "{#Left}{^}",
 "STPH-RB": "{#Control_L(Left)}{^}",
+"STPH-RBG": "{#Control_L(Shift_L(Left))}",
 "STPH-P": "{#Up}{^}",
 "STPH-B": "{#Down}{^}",
 "STPH-BG": "{#Control_L(Right)}{^}",
