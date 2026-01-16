@@ -9,12 +9,34 @@
 "STPH-B": "{#Down}{^}",
 "STPH-BG": "{#Control_L(Right)}{^}",
 "STPH-G": "{#Right}{^}",
+"STA*RT": "{:time:Pausen er ferdig kl. %H:%M.}",
 "SKVRAEURBGS": "{^\n\n^}{-|}",
 "SKVRAURBGS": "{^\n\n^}{-|}",
 "SKV-BGS": "{#Return}{^}",
+"SHR*UT": "{:time:Møtet er slutt kl. %H:%M.}",
 "SH-FT": "{PLOVER:SWITCH_SYSTEM:English Stenotype}",
 "SR-RS": "{#Control_L(End)}{^}",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "TKA/TO*": "{:time:%d.%m.%Y.}",
+=======
+"TKA/TO*": "{:time:%A %d %B. %Y.}",
+>>>>>>> Stashed changes
+=======
+"TKA/TO*": "{:time:%A %d %B. %Y.}",
+>>>>>>> Stashed changes
+=======
+"TKA/TO*": "{:time:%A %d %B. %Y.}",
+>>>>>>> Stashed changes
+=======
+"TKA/TO*": "{:time:%A %d %B. %Y.}",
+>>>>>>> Stashed changes
+=======
+"TKA/TO*": "{:time:%A %d %B. %Y.}",
+>>>>>>> Stashed changes
 "TK*EL": "{#Delete}",
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 "TK-FP": "{*!}",
@@ -24,7 +46,7 @@
 "TPEFBG": "{#Escape}",
 "TA*B": "{#Tab}{^}",
 "TA*BT": "{#Alt_L(Tab Tab)}",
-"T*EUD": "{:time:%H:%M}",
+"T*EUD": "{:time:kl. %H:%M.}",
 "KPH*F": "{#Super_L(v)}",
 "KPH*BG": "{#Super_L(k)}",
 "KPH*T": "{#Super_L(w)}",
@@ -42,7 +64,11 @@
 "PHRO*F": "{PLOVER:SUSPEND}",
 "PHRO*PB": "{PLOVER:RESUME}",
 "PHROLG": "{PLOVER:TOGGLE}",
+"PAO*US": "{:time:Pausen starter kl. %H:%M.}",
 "R-R": "{#Return}{^}",
 "A*FP": "{*?}",
-"AFP": "{*?}"
+"AFP": "{*?}",
+"APL/T*EUD": "{:time:kl.%I:%M. %p}",
+"*UBG": "{:time: uke. %V.}",
+"US/T*EUD": "{:time:kl.%I:%M. %p}"
 }
