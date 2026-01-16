@@ -17,7 +17,11 @@
 "SH-FT": "{PLOVER:SWITCH_SYSTEM:English Stenotype}",
 "SR-RS": "{#Control_L(End)}{^}",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 "TKA/TO*": "{:time:%d.%m.%Y.}",
+=======
+"TKA/TO*": "{:time:%A %d %B. %Y.}",
+>>>>>>> Stashed changes
 =======
 "TKA/TO*": "{:time:%A %d %B. %Y.}",
 >>>>>>> Stashed changes
