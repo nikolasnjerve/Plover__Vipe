@@ -16,27 +16,7 @@
 "SHR*UT": "{:time:Møtet er slutt kl. %H:%M.}",
 "SH-FT": "{PLOVER:SWITCH_SYSTEM:English Stenotype}",
 "SR-RS": "{#Control_L(End)}{^}",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-"TKA/TO*": "{:time:%d.%m.%Y.}",
-=======
-"TKA/TO*": "{:time:%A %d %B. %Y.}",
->>>>>>> Stashed changes
-=======
-"TKA/TO*": "{:time:%A %d %B. %Y.}",
->>>>>>> Stashed changes
-=======
-"TKA/TO*": "{:time:%A %d %B. %Y.}",
->>>>>>> Stashed changes
-=======
-"TKA/TO*": "{:time:%A %d %B. %Y.}",
->>>>>>> Stashed changes
-=======
-"TKA/TO*": "{:time:%A %d %B. %Y.}",
->>>>>>> Stashed changes
+"TKA/TO*": "{:time:%A %d. %B %Y.}",
 "TK*EL": "{#Delete}",
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 "TK-FP": "{*!}",
@@ -54,7 +34,7 @@
 "KPA": "{*-|}",
 "KPA*": "{*>}",
 "KPA*L": "{<}",
-"KHRU": "{#Control_L(u)}",
+"KHR*U": "{#Control_L(u)}",
 "KHR-F": "{#Control_L(f)}",
 "KHR-BG": "{#Control_L(k)}",
 "KRA*PL": "{MODE:RESET}",
@@ -69,6 +49,6 @@
 "A*FP": "{*?}",
 "AFP": "{*?}",
 "APL/T*EUD": "{:time:kl.%I:%M. %p}",
-"*UBG": "{:time: uke. %V.}",
+"*UBG": "{:time:uke. %V.}",
 "US/T*EUD": "{:time:kl.%I:%M. %p}"
 }
