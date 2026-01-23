@@ -1413,6 +1413,7 @@
 "SPES/SKVREL/E": "spesielle",
 "SPES/TPEU/SE/RE": "spesifisere",
 "SPES/TPEUBG": "spesifikk",
+"SPES/TPEUBG/SHO/TPHER": "spesifikasjoner",
 "SPES/TPEUBGT": "spesifikt",
 "SPES/PEUBGT": "spesifikt",
 "SPES/HREUFT": "spesialist",
@@ -8057,6 +8058,7 @@
 "PVRAN/VEFN": "brannvesen",
 "PVRAN/VES/TPHE": "brannvesenet",
 "PVRAN/OUF/SE": "brannøvelse",
+"PVRAN/OUF/SER": "brannøvelser",
 "PVRAN/-N": "brannen",
 "PVRO": "bro",
 "PVRO/SUG/RE": "blodsugere",
@@ -14514,6 +14516,7 @@
 "AP/HREUBG/SHO/TPHER": "applikasjoner",
 "AP/RAT": "apparat",
 "AP/REUL": "april",
+"AP/-N": "appen",
 "APB/STEN": "angsten",
 "APB/SHRAEG": "anklage",
 "APB/SHRAG/E": "anklage",
@@ -16343,6 +16346,7 @@
 "EUTN/RAOEUL": "interrail",
 "EUTN/RE/SAPB": "interessant",
 "EUTN/RE/SATN": "interessant",
+"EUTN/RE/SERT": "interessert",
 "EUTN/RES/KON/TPHREUBGT": "interessekonflikt",
 "EUTN/RES/E": "interesse",
 "EUTN/RES/-N": "interessen",
@@ -17442,6 +17446,5 @@
 "-D/-T": "dette",
 "-N": "{^en}",
 "-N/T/PV": "ntb",
-"-N/PHAOEUL/PREUF": "nikolasnjerve@gmail.com",
 "-N/-R/TKPVEU": "energi"
 }
