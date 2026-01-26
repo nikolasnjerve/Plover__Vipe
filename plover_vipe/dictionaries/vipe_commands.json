@@ -8,6 +8,7 @@
 "STPH-B": "{#Down}{^}",
 "STPH-BG": "{#Control_L(Right)}{^}",
 "STPH-G": "{#Right}{^}",
+"STA*RT": "{:time:START: kl.%H:%M}",
 "SKVRAEURBGS": "{^\n\n^}{-|}",
 "SKVRAURBGS": "{^\n\n^}{-|}",
 "SKV-BGS": "{#Return}{^}",
@@ -41,6 +42,7 @@
 "PHRO*F": "{PLOVER:SUSPEND}",
 "PHRO*PB": "{PLOVER:RESUME}",
 "PHROLG": "{PLOVER:TOGGLE}",
+"PAO*US": "{:time:PAUSE. kl.%H:%M}",
 "R-R": "{#Return}{^}",
 "A*FP": "{*?}",
 "AFP": "{*?}"
