@@ -16,7 +16,7 @@
 "SHR*UT": "{:time:Møtet er slutt kl. %H:%M.}",
 "SH-FT": "{PLOVER:SWITCH_SYSTEM:English Stenotype}",
 "SR-RS": "{#Control_L(End)}{^}",
-"TKA/TO*": "{:time:%A %d. %B %Y.}",
+"TKA/TO*": "{:time: %d. %B %Y.}",
 "TK*EL": "{#Delete}",
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 "TK-FP": "{*!}",
