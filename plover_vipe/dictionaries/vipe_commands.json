@@ -26,7 +26,7 @@
 "TPEFBG": "{#Escape}",
 "TA*B": "{#Tab}{^}",
 "TA*BT": "{#Alt_L(Tab Tab)}",
-"T*EUD": "{:time:kl. %H:%M.}",
+"T*EUD": "{:time:kl.%H:%M}",
 "KPH*F": "{#Super_L(v)}",
 "KPH*BG": "{#Super_L(k)}",
 "KPH*T": "{#Super_L(w)}",
