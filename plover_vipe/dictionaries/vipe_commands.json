@@ -23,6 +23,7 @@
 "TK-FPS": "{*!}",
 "TPV-R": "{#Alt_L(Left)}",
 "TPV-G": "{#Alt_L(Right)}",
+"TPHA*U": "{:time: %A %d. %B %Y. kl. %H:%M.}",
 "TPEFBG": "{#Escape}",
 "TA*B": "{#Tab}{^}",
 "TA*BT": "{#Alt_L(Tab Tab)}",
